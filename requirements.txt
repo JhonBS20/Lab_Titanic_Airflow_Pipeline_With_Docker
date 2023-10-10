@@ -1,0 +1,2 @@
+pandas-profiling
+psycopg2-binary
